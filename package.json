@@ -11,6 +11,10 @@
     "url": "git+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample.git"
   },
   "license": "MIT-0",
+  "engines": {
+    "node": ">=16.14.2",
+    "npm": ">=8.5.0"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "cors": "^2.8.5"
