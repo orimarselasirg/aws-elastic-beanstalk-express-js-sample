@@ -1,5 +1,5 @@
 module.exports = {
     control : async () => {
-        return "controller test ok"
+        return  "controller test ok"
     }
 }

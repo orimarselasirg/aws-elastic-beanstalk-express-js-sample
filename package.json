@@ -4,7 +4,7 @@
   "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon -L"
   },
   "repository": {
     "type": "git",

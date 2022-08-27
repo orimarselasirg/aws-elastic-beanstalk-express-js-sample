@@ -5,7 +5,7 @@ const {control} = require('../controllers/testController')
 
 router.get('/test', async (req, res) => {
    try {
-    res.send(control ())
+    res.status(200).json(await control())
    } catch (error) {
         console.log(error);
    }
