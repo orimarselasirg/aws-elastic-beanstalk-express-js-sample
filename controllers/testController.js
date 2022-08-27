@@ -1,5 +1,5 @@
 module.exports = {
-    control :  () => {
-        return  "controller test ok"
+    control :  async () => {
+        return  "desde controller"
     }
 }
