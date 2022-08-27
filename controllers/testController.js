@@ -1,5 +1,5 @@
-module.exports = {
-    control :  () => {
-        return  "controller test ok"
-    }
-}
+// module.exports = {
+//     control :  () => {
+//         return  "controller test ok"
+//     }
+// }
